@@ -5,13 +5,6 @@ This is an filteredApp with **React**,**TypeScript**, **Frame-motion** and **Css
 ![Filter Animation](https://github.com/memof90/screenProjects/blob/master/FilterAppReact/effect.gif?raw=true)
 
 
-
-## Page Demo
-- Home Page.
-- Services
-- About Us
-- Contact
-
 ##  Getting started
 
 -   Recommended  `node js 14+`  and  `npm 6+`
